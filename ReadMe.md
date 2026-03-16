@@ -36,13 +36,25 @@ O projeto ainda está em fase de desenvolvimento e novas atualizações serão a
 
 ---
 
+
+Cada projeto possui sua própria documentação e código fonte.
+
+---
+
+## 🤖 Projeto em destaque
+
+Um dos projetos já desenvolvidos pelo grupo é o **Robô Seguidor de Linha**, baseado em **Arduino Uno**, que utiliza sensores infravermelhos para seguir trajetórias em pistas de competição.
+
+Para saber mais sobre o projeto clique aqui:
+
+➡️ **[Projeto Robô Arduino](robotica/robo-seguidor-linha)**
+
+---
+
 ## 📂 Estrutura do repositório
 
 Aqui você encontrará diferentes projetos organizados em pastas, por exemplo:
 
 📁 robotica
 📁 jogos
-📁 web
-📁 estudos
-
 
