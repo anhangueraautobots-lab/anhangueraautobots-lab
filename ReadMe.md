@@ -1,53 +1,48 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&size=26&pause=1000&color=E71D36&width=435&lines=Seja+Bem-Vindo+ao+Grupo+Sabor+T.I+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&size=26&pause=1000&color=E71D36&width=435&lines=Seja+Bem-Vindo+ao+Grupo+Sabor+T.I)](https://git.io/typing-svg)
 
+# 🍔 Sabor T.I — Laboratório de Projetos
 
-# 🤖 Sabot T.I — Robô Seguidor de Linha
-
-[![Status](https://img.shields.io/badge/status-development-e71d36)](#) 
-[![Arduino](https://img.shields.io/badge/board-Arduino%20Uno-121212?logo=arduino&logoColor=white)](https://www.arduino.cc/) 
+[![Status](https://img.shields.io/badge/status-active%20development-e71d36)](#)
+[![University](https://img.shields.io/badge/Universidade-Anhanguera-121212)](#)
 [![License: MIT](https://img.shields.io/badge/license-MIT-000000)](LICENSE)
 
 </div>
 
 ---
 
-## 🔎 Visão geral
+## 👋 Sobre o grupo
 
-Projeto acadêmico de robótica que desenvolve um **robô seguidor de linha autônomo** baseado em **Arduino Uno R3 (ATmega328P)**.  
-O robô lê sensores infravermelhos para acompanhar trajetórias e utiliza um driver de motores para controlar a tração em pistas de competição.
+O **Sabor T.I** é um grupo de estudantes da **Universidade Anhanguera** dedicado ao desenvolvimento de projetos acadêmicos e experimentais na área de tecnologia.
 
----
+Este repositório funciona como um **laboratório de código**, onde armazenamos e organizamos nossos projetos desenvolvidos ao longo da graduação, incluindo:
 
-## 🧭 Funcionalidades principais
+- 🤖 Robótica com **Arduino**
+- 🎮 Desenvolvimento de **jogos**
+- 💻 Projetos de **programação**
+- 🌐 **Websites** e aplicações web
+- 🔬 Experimentos e estudos em tecnologia
 
-- Seguimento automático de linha (4 sensores IR)  
-- Controle de motores via Ponte H (L298N) com PWM  
-- Detecção de obstáculos com sensor ultrassônico (HC-SR04)  
-- Alimentação independente via suporte para 4x pilhas AA  
-- Código modular e comentado para fácil reprodução e ajuste
-
----
-
-## ⚙️ Componentes (resumo)
-
-| Componente | Quantidade |
-|---|---:|
-| Arduino Uno R3 (ATmega328P) | 1 |
-| Ponte H L298N | 1 |
-| Motores DC com engrenagens | 2 |
-| Módulos seguidor de linha (IR) | 4 |
-| Sensor ultrassônico HC-SR04 | 1 |
-| Chassi 2WD, rodas e roda boba | Kit |
-| Protoboard / jumpers / cabos | Vários |
+Nosso objetivo é **aprender, experimentar e compartilhar conhecimento**, documentando nossos projetos de forma clara para facilitar o estudo e a reprodução.
 
 ---
 
-## 🧠 Especificações do microcontrolador
+## 🚧 Projeto atual
 
-- **Modelo:** ATmega328P (Arduino Uno R3)  
-- **Vcc:** 5V — **Clock:** 16 MHz  
-- **Flash:** 32 KB — **SRAM:** 2 KB — **EEPROM:** 1 KB
+Atualmente estamos desenvolvendo um **jogo**, que faz parte de nossos estudos em **lógica de programação e desenvolvimento de software**.
+
+O projeto ainda está em fase de desenvolvimento e novas atualizações serão adicionadas ao repositório em breve.
+
+---
+
+## 📂 Estrutura do repositório
+
+Aqui você encontrará diferentes projetos organizados em pastas, por exemplo:
+
+📁 robotica
+📁 jogos
+📁 web
+📁 estudos
 
 
