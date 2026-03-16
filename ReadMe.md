@@ -47,7 +47,7 @@ Um dos projetos já desenvolvidos pelo grupo é o **Robô Seguidor de Linha**, b
 
 Para saber mais sobre o projeto clique aqui:
 
-➡️ **[Projeto Robô Arduino](https://github.com/anhangueraautobots-lab/SITE_AUTOBOTS/tree/main/robotica/robo-seguidor-linha)**
+➡️ **[Projeto Robô Arduino](https://github.com/anhangueraautobots-lab/SITE_AUTOBOTS)**
 
 ---
 
