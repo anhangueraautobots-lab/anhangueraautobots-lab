@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&size=26&pause=1000&color=E71D36&width=435&lines=Seja+Bem-Vindo+ao+Grupo+AUTOBOTS+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jura&size=26&pause=1000&color=E71D36&width=435&lines=Seja+Bem-Vindo+ao+Grupo+Sabor+T.I+)](https://git.io/typing-svg)
 
 
-# 🤖 AutoBots — Robô Seguidor de Linha
+# 🤖 Sabot T.I — Robô Seguidor de Linha
 
 [![Status](https://img.shields.io/badge/status-development-e71d36)](#) 
 [![Arduino](https://img.shields.io/badge/board-Arduino%20Uno-121212?logo=arduino&logoColor=white)](https://www.arduino.cc/) 
