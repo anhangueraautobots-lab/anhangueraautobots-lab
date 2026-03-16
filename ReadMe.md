@@ -47,7 +47,17 @@ Um dos projetos já desenvolvidos pelo grupo é o **Robô Seguidor de Linha**, b
 
 Para saber mais sobre o projeto clique aqui:
 
-➡️ **[Projeto Robô Arduino](https://github.com/anhangueraautobots-lab/SITE_AUTOBOTS)**
+➡️ **[Projeto Robô Arduino](https://github.com/anhangueraautobots-lab/projeto-arduino)**
+
+---
+
+## 🎮 Projeto em desenvolvimento
+
+Atualmente estamos desenvolvendo um jogo como parte dos estudos do grupo.
+
+➡️ Saiba mais:
+
+**[Projeto do Jogo](https://github.com/anhangueraautobots-lab/jogo-sabor-ti)**
 
 ---
 
